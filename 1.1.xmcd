@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?validation-md5-digest 4c68f8c963b36df4ecbe5008b9a64f6d?>
+<?validation-md5-digest 08e775d68ae3068f9f54439810ca40b7?>
 <worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10">
 	<pointReleaseData/>
 	<metadata>
@@ -13,9 +13,9 @@
 			<revisedBy>deneb</revisedBy>
 		</userData>
 		<identityInfo>
-			<revision>3</revision>
+			<revision>4</revision>
 			<documentID>CA61F010-A2B2-49D4-A3A0-CC9EDAB5F755</documentID>
-			<versionID>D90E23B1-777C-4D7F-B27D-B3A3E73ED7F2</versionID>
+			<versionID>9B609C4C-D355-49E2-A1B5-11DE7645353A</versionID>
 			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
 			<branchID>00000000-0000-0000-0000-000000000000</branchID>
 		</identityInfo>
@@ -232,6 +232,33 @@
 			</math>
 			<rendering item-idref="12"/>
 		</region>
+		<region region-id="90" left="186" top="171" width="112.5" height="16.5" align-x="276" align-y="180" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<math optimize="false" disable-calc="false">
+				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
+					<ml:apply>
+						<ml:minus/>
+						<ml:apply>
+							<ml:minus/>
+							<ml:apply>
+								<ml:minus/>
+								<ml:apply>
+									<ml:minus/>
+									<ml:id xml:space="preserve" subscript="s">l</ml:id>
+									<ml:id xml:space="preserve" subscript="1">B</ml:id>
+								</ml:apply>
+								<ml:id xml:space="preserve" subscript="2">B</ml:id>
+							</ml:apply>
+							<ml:id xml:space="preserve">a</ml:id>
+						</ml:apply>
+						<ml:id xml:space="preserve">a</ml:id>
+					</ml:apply>
+					<result xmlns="http://schemas.mathsoft.com/math30">
+						<ml:real>10</ml:real>
+					</result>
+				</ml:eval>
+			</math>
+			<rendering item-idref="13"/>
+		</region>
 	</regions>
 	<binaryContent>
 		<item item-id="1">iVBORw0KGgoAAAANSUhEUgAAAEIAAAARCAYAAABpTnqxAAAAAXNSR0IArs4c6QAAAARnQU1B
@@ -319,5 +346,16 @@ AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACBSURBVDhP7ZHdCcAgDIQzVwbKPE7j
 MhnmGv9aq7VS8KHQHoh4XL4DQ1ioH/Zcr4cpHBOI7IhPVpY6Tj4LZJbJb5O3MIOJ4TRbwROD
 7N59poE5+NCSm0OjePNPsHGmg2m443D7nmcuYMcfpPIyOM90C+A4VYaqxVQLGGYia5E+AQM2
 ngR7KX5B/xIAAAAASUVORK5CYII=</item>
+		<item item-id="13">iVBORw0KGgoAAAANSUhEUgAAAJYAAAAWCAYAAAAisWU6AAAAAXNSR0IArs4c6QAAAARnQU1B
+AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHnSURBVGhD7ZcNzoMgDIY5lwfiPJyG
+y3gYPlurAv51fK3ErU9iMpeFV+pDYS4ZhgImlqGCiWWoYGIZKmxijSENbkhhpHtxYvLOJVdf
+Q0hqkUiv3PcyhiE5H+mOQD+gdjxHSKyl+JpiAWMKg0vbM8/3u0mI0yv3faBU4EJRG/CD3EDB
+/PTNNQ92LKB+wROQq949euW+k13Hij67P6jlAd3Fir5Hx3oql3KW7VcwT2tcoBarvofs4UaU
+LmKtBVEoyjGdcvOuiPW930JYsMY9mDNz7kdi5SIpi9Xy4CedoyrMrhUXaOTmY57VoCWXgK0E
+fysrwPW47XQWq4X9C55zt+9wUpyifsR17hj8Om8UTuzsRX+KMBg+SwnAGbdd2N3Cfu0Zq8q9
+7lgt8HIRrIOMAOU85MTSGndhX3/IoFpBfRgLj8TK7Z4fEgdfDBdZwbTKDq7aIVmx+LkIs3As
+qCsWuRJja40LrNvrdOUFWjN5zWfrWAXlKhhjlHloJrJifchU2Lvzg3HPiVhQ39naHkXuJ9a0
+oKRW/o9zKtbMso3I7uF39BIr+mfn+c2cboUh61TRax/qS3qIBZlr5HSe8LYd/ouLMxYd4OB6
+8iWfHR4VWbb97Xp2IX0jN1uhYbRhYhkqmFiGCiaWoUBKf3XDzTYDwDlVAAAAAElFTkSuQmCC</item>
 	</binaryContent>
 </worksheet>
